@@ -8,8 +8,6 @@ public class Main {
         //字串
         String[] messages = new String[]{"Sam", "Tom", "You"};
 
-        for (String message : messages) {
-        }
 
     }
 }
